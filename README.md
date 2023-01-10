@@ -13,6 +13,19 @@ mayavi 4.7.4
 
 PyQt5 5.15.6
 
+
+conda create -n kitti_vis python=3.7.11
+
+conda activate kitti_vis
+
+pip install opencv-python pillow scipy matplotlib
+
+pip install vtk==8.1.2
+
+pip install mayavi==4.7.4
+
+pip install pyqt==5.15.6
+
 # KITTI Object data transformation and visualization
 
 
