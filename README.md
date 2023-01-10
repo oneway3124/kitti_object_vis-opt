@@ -1,3 +1,18 @@
+
+
+# 注意安装的环境
+https://blog.csdn.net/qq_42266322/article/details/125387739
+
+版本二
+
+Python 3.7.11
+
+VTK 8.1.2
+
+mayavi 4.7.4
+
+PyQt5 5.15.6
+
 # KITTI Object data transformation and visualization
 
 
